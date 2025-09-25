@@ -12,7 +12,8 @@ It’s not a polished project repo, but more of a **practice playground** where 
 - Subfolders with small code snippets & examples  
 - Step-by-step progress as I learn new topics  
 - Covers basics first, then gradually builds up  
-- Purely for **practice & learning** (not a full-fledged project)  
+- Purely for **practice & learning** (not a full-fledged project)
+- Few folders will contain their own README.md files to explain.  
 
 ---
 
@@ -27,7 +28,8 @@ It’s not a polished project repo, but more of a **practice playground** where 
 
 - To **track my progress** in learning JS  
 - To have a space where I can **experiment freely**  
-- To share my journey with others who might be starting out too  
+- To share my journey with others who might be starting out too
+- To have validation for mor my progress  
 
 ---
 
