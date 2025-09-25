@@ -12,7 +12,8 @@ It’s not a polished project repo, but more of a **practice playground** where 
 - Subfolders with small code snippets & examples  
 - Step-by-step progress as I learn new topics  
 - Covers basics first, then gradually builds up  
-- Purely for **practice & learning** (not a full-fledged project)  
+- Purely for **practice & learning** (not a full-fledged project)
+- Few folders will contain their own README.md files to explain.  
 
 ---
 
