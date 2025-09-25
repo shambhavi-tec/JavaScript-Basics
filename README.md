@@ -27,7 +27,8 @@ It’s not a polished project repo, but more of a **practice playground** where 
 
 - To **track my progress** in learning JS  
 - To have a space where I can **experiment freely**  
-- To share my journey with others who might be starting out too  
+- To share my journey with others who might be starting out too
+- To have validation for mor my progress  
 
 ---
 
