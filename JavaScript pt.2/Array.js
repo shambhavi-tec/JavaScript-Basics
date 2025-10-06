@@ -49,3 +49,11 @@ console.log("backwards slice", colors.slice(-3));
 colors.splice(1,2,"white","grey");
 console.log("After splicing, the array is", colors);
 
+let alpha = ['a','s','d','m','q','b','g'];
+console.log("Sorting the array", alpha.sort());
+
+let marks = [23,54,63,67,72,13,200,53,100];
+console.log("This won't work with marks", marks.sort());
+
+
+
